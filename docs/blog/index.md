@@ -1,4 +1,4 @@
 # Blog
 
-[[posts/raynear]]
+[[raynear]]
 
